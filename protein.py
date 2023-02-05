@@ -1,3 +1,5 @@
+# Copyright; Annika Caroline Reinholdt, ozreinholdt@gmail.com, University of Copenhagen 
+
 """
 This is a module for a Quality Control (QC) analysis of Protein structure in the PDB database.
 """
